@@ -13,5 +13,10 @@
 9. You can click on Analysis->Cmake Profiler.
 10. Launch the project or press CTRL + R.
 
+# The final result
 ![image](https://github.com/user-attachments/assets/ef7baffe-3e74-4de2-a227-2cc1c463d2cc)
 
+# Usage example:
+1. Choose any two points.
+2. Click "Start calculation".
+![image](https://github.com/user-attachments/assets/a771d028-ea3d-4928-8559-b7d9bf2c95bf)
