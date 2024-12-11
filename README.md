@@ -12,3 +12,6 @@
 8. Rebuild the project.
 9. You can click on Analysis->Cmake Profiler.
 10. Launch the project or press CTRL + R.
+
+![image](https://github.com/user-attachments/assets/ef7baffe-3e74-4de2-a227-2cc1c463d2cc)
+
