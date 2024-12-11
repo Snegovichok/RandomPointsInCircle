@@ -8,7 +8,7 @@
    2.2. Build system: Cmake.
    2.3. Class name: MainWindow.
    2.4. Package: Desktop Qt 6.7.2 MinGW 64-bit.
-3. Copy the code provided above into your project: CMakeLists.txt , main.cpp , mainwindow.cpp , mainwindow.h.
-4. Rebuild the project.
+4. Copy the code provided above into your project: CMakeLists.txt , main.cpp , mainwindow.cpp , mainwindow.h.
+5. Rebuild the project.
    4.1. You can click on Analysis->Cmake Profiler.
-5. Launch the project or press CTRL + R.
+6. Launch the project or press CTRL + R.
