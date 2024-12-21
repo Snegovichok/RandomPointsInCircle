@@ -43,7 +43,7 @@ Note: To view the prices in detail, you open the "Application Output" window in 
 # Management:
 1. Left-click on the dots.
 2. Right-click to deselect.
-3. The "Start calculation" button starts the A* algorithm.
+3. The "Start calculation" button starts the calculation algorithm.
 4. The Reset button resets the path.
 5. The "Go back" button returns us to the main menu.
 6. In the upper-right corner of the window, write "Estimated fare".
