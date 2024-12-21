@@ -24,7 +24,7 @@ Having adjusted the price accounting, we returned to the search for new ways whe
 ![image](https://github.com/user-attachments/assets/90b7ca76-9d0f-4301-89b6-b367e8317405)
 
 # Usage example:
-1. Select any of the methods.
+Select any of the methods.
 
 # Checking Algorithm A*
 ![image](https://github.com/user-attachments/assets/a7c5796c-55f8-4ab4-8d69-5eacd1e261f3)
