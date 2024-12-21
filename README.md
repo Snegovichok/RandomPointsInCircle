@@ -36,8 +36,9 @@ The green dots show the shortest path from the points you have selected.
 Select any one point and click on "Start calculation".
 The green dots show where your path started and where it ended. 
 The yellow dots indicate how much you will spend on the way back, following the same route we started with. 
-Note: To view the prices in detail, you open the "Application Output" window in Qt by pressing Alt+3.
+
 ![image](https://github.com/user-attachments/assets/136fb03c-62ab-4a2a-aa21-551f641b0a0f)
+Note: To view the prices in detail, you open the "Application Output" window in Qt by pressing Alt+3.
 
 # Management:
 1. Left-click on the dots.
